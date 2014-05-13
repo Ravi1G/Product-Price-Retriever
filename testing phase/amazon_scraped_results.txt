@@ -1,0 +1,40 @@
+Product Name:  Compilers: Principles, Techniques, and Tools (2nd Edition) by Alfred V. Aho, Monica S. Lam, Ravi Sethi and Jeffrey D. Ullman (Hardcover - Sept. 10, 2006)
+ Prices 
+: $99.72
+
+Product Name:  Principles of Compiler Design (Addison-Wesley series in computer science and information processing) by Alfred V. Aho and Jeffrey D. Ullman (Hardcover - Aug. 1977)
+ Prices 
+: $124.98
+
+Product Name:  Compiler Design in C (Prentice-Hall software series) by Allen I. Holub (Hardcover - 1990)
+ Prices 
+: $51.30
+
+Product Name:  Compilers: Principles, Techniques, and Tools by Alfred V. Aho, Ravi Sethi and Jeffrey D. Ullman (Hardcover - Jan. 1, 1986)
+ Prices 
+: $53.96
+
+Product Name:  Modern Compiler Design by David Galles (Paperback - Aug. 25, 2004) - Unabridged
+ Prices 
+: $47.99
+
+Product Name:  A Retargetable C Compiler: Design and Implementation by David R. Hanson and Christopher W. Fraser (Paperback - Feb. 10, 1995)
+ Prices 
+: $55.96
+
+Product Name:  Compiler Design: Code Generation and Machine-Level Optimization by Sebastian Hack, Reinhard Wilhelm and Helmut Seidl (Hardcover - Sept. 1, 2014)
+ Prices 
+: $41.11
+
+Product Name:  Compiler Design: Syntactic and Semantic Analysis by Reinhard Wilhelm, Helmut Seidl and Sebastian Hack (Hardcover - May 28, 2013)
+ Prices 
+: $39.98
+
+Product Name:  Compiler Design: Analysis and Transformation by Reinhard Wilhelm, Helmut Seidl and Sebastian Hack (Hardcover - Aug. 14, 2012)
+ Prices 
+: $66.74
+
+Product Name:  Compiler Design: Virtual Machines by Reinhard Wilhelm and Helmut Seidl (Hardcover - Dec. 3, 2010)
+ Prices 
+: $47.91
+
